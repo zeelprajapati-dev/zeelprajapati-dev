@@ -1,54 +1,110 @@
-# ZEEL PRAJAPATI  
-**zeelprajapati-dev** | Full-Stack Developer
+<h1 align="center">Zeel Prajapati</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast | UI/UX Designer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zeelprajapati-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zeelprajapati-dev?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 
-### 👋 Profile
-Hello, I'm **Zeel Prajapati**, a passionate Full-Stack Developer who has completed Diploma in Information Technology (2023) and currently pursuing B.E. in Information Technology at UVPCE, Ganpat University (2023-26). I love building scalable web applications with modern technologies and creative UI/UX designs.
+### 📌 Professional Summary
+
+Innovative and dedicated IT student with a strong foundation in **full-stack development**, **UI/UX design**, and **smart web applications**. Proficient in the **MERN stack** along with **Python** and **Flask** for backend development. Skilled in developing secure, scalable, and user-friendly web solutions with experience in integrating **AI-assisted features**. Demonstrates strong analytical thinking, problem-solving abilities, and a keen eye for creative and modern design.
 
 ---
 
-### 🏆 Achievements
-- 🎓 **Ethical Hacker Course** – Grade A+ (Ganpat University, May 2025)
-- 🎓 **IEEE Women In Engineering** – Student Member (Ganpat University, May 2024)
-- 🎓 **Cyber Security & Hacking** – Certified (Mehsana, April 2023)
-- 🎓 **PHP Training** – Brainy Beam Technologies (July 2022)
-- 🎓 **Full Stack Development Training** – Special Char Pvt. Ltd. (2023)
+### 📍 Contact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Gujarat,%20India-blue?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-%2B91%209428226172-green?style=flat-square&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-zeelprajapati620%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
 ---
 
-### 🔥 Highlights
-- 💻 **Full-Stack Developer** at NovaSphere Technologies (Current)
-- 🚀 **3+ Major Projects** completed (DreamHome, Trip Advisor, TechnoFix)
-- 🤖 **AI Integration** experience with OpenAI API
-- 🎨 **UI/UX Design** expertise with Figma
-- 📱 **Responsive Web Design** specialist
+### 🎓 Education
+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **B.E. Information Technology** | UVPCE, Ganpat University, Kherva | 2023 – 2026 (Expected) |
+| **Diploma in Information Technology** | BSPP, Ganpat University, Gujarat | 2020 – 2023 |
+| **Secondary School Certificate (SSC)** | Shrimati S.G. Shukla Kanya Vidhyalaya, Gujarat | 2020 |
 
 ---
 
-### 📄 Organizations
-- **NovaSphere Technologies L.L.P.** – Full-Stack Developer Intern (Current)
-- **IEEE Women In Engineering** – Student Member (May 2024 - Present)
-- **Ganpat University** – IT Engineering Student (2023-2026)
+### 💼 Experience
+
+#### Full-Stack Developer Intern
+**NovaSphere Technologies L.L.P.** | *Current*
+- Developing scalable and responsive web applications using HTML, CSS, JavaScript, Bootstrap, Python (Flask), and MySQL
+- Gained hands-on experience working on live projects with real-world application deployment
+- Involved in REST API development, database integration, authentication systems, and debugging
+- Developed basic understanding of React.js while building interactive UI components
+- Collaborating with cross-functional teams to deliver efficient solutions within deadlines
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Technical Skills
 
-Passionate and dedicated IT student with a strong foundation in **Full-Stack Development**, **UI/UX Design**, and **Smart Web Applications**. Proficient in **MERN Stack** along with **Python** and **Flask** for backend development. Skilled in developing secure, scalable, and user-friendly web solutions with experience in integrating **AI-assisted features**. Demonstrates strong analytical thinking, problem-solving abilities, and a keen eye for creative and modern design.
+<table>
+  <tr>
+    <td><strong>Front-End</strong></td>
+    <td>HTML5, CSS3, JavaScript, Bootstrap, Responsive Web Design, Basic React.js, UI/UX Principles, Figma, Cross-Browser Compatibility, SEO Optimization</td>
+  </tr>
+  <tr>
+    <td><strong>Back-End</strong></td>
+    <td>Python (Flask), Node.js, Express.js, PHP, RESTful API Development, Authentication & Authorization</td>
+  </tr>
+  <tr>
+    <td><strong>Database</strong></td>
+    <td>MySQL, MongoDB, SQLite, Database Design, CRUD Operations</td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td>VS Code, Git, GitHub, Figma, Canva, Lovable</td>
+  </tr>
+  <tr>
+    <td><strong>Core Competencies</strong></td>
+    <td>Problem Solving, Analytical Thinking, Clean Code Practices, Team Collaboration, Creative Design Approach</td>
+  </tr>
+</table>
 
 ---
 
-### 🌐 Socials
+### 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://github.com/zeelprajapati-dev">
+| Project | Duration | Description | Tech Stack |
+|---------|----------|-------------|-----------|
+| **Dream Home Design** | Jan 2025 – June 2025 | Dynamic home layout web application with secure user authentication and personalized data storage. Responsive UI with customizable layout creation features. | HTML, CSS, JS, PHP, SQL |
+| **Trip Advisor – AI Smart Travel Planner** | July 2025 – Dec 2025 | MERN full-stack application with AI-based trip recommendations, smart itinerary management, secure authentication, booking features, payment support, and travel history storage. | React, Node.js, Express, MongoDB |
+| **TechnoFix – AI Electric Service Management** | Jan 2026 – Present | Full-stack web application automating electric service operations with role-based modules. Integrated Flask REST APIs and OpenAI NLP APIs for AI-powered problem summarization. | Python, Flask, MySQL, OpenAI API |
+
+---
+
+### 📜 Certifications
+
+| Certification | Organization | Date |
+|---------------|--------------|------|
+| **Ethical Hacker Course (Grade A+)** | Ganpat University | May 2025 |
+| **IEEE Women In Engineering** | Ganpat University | May 2024 |
+| **Cyber Security & Hacking** | Mehsana, Gujarat | April 2023 |
+| **PHP Training** | Brainy Beam Technologies, Ahmedabad | July 2022 |
+| **Full Stack Development Training** | Special Char Pvt. Ltd., Ahmedabad | 2023 |
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/zeelprajapati-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/zeel-prajapati">
+  <a href="https://linkedin.com/in/zeel-prajapati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/zeel_prajapati">
+  <a href="https://instagram.com/zeel_prajapati" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:zeelprajapati620@gmail.com">
@@ -58,110 +114,39 @@ Passionate and dedicated IT student with a strong foundation in **Full-Stack Dev
 
 ---
 
-### 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Front-End** | HTML5, CSS3, JavaScript, Bootstrap, React.js, Responsive Design, Figma |
-| **Back-End** | Python (Flask), Node.js, Express.js, PHP, RESTful APIs |
-| **Database** | MySQL, MongoDB, SQLite |
-| **Tools** | Git, GitHub, VS Code, Canva, Lovable |
-| **Core Skills** | Problem Solving, Analytical Thinking, Clean Code, Team Collaboration |
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeelprajapati-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeelprajapati-dev&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeelprajapati-dev&show_icons=true&count_private=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeelprajapati-dev&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeelprajapati-dev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeelprajapati-dev&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
 
-### 📈 Most Used Languages
-
-| Language | Percentage |
-|----------|------------|
-| **JavaScript** | 40% |
-| **Python** | 30% |
-| **HTML/CSS** | 15% |
-| **SQL** | 10% |
-| **PHP** | 5% |
-
----
-
-### 📌 Pinned Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Dream Home Design** | Dynamic home layout web app with secure authentication | HTML, CSS, JS, PHP, SQL |
-| **Trip Advisor - AI Travel Planner** | Smart travel planner with AI recommendations | React, Node.js, Express, MongoDB |
-| **TechnoFix - AI Electric Service** | AI-powered electric service automation | Python, Flask, MySQL, OpenAI API |
-
----
-
-### 💼 Services
-
-| Service | Expertise |
-|---------|-----------|
-| **Software Development** | Full-Stack Web Applications |
-| **Web Design** | HTML, CSS, JavaScript, Bootstrap |
-| **UI/UX Design** | Figma, Wireframing, Prototyping |
-| **Database Design** | MySQL, MongoDB, SQLite |
-| **API Development** | RESTful APIs, Authentication |
-
----
-
-### 📅 Contributions in the Last Year
-
-| Month | Contributions |
-|-------|---------------|
-| January | 15 |
-| February | 22 |
-| March | 28 |
-| April | 18 |
-| May | 25 |
-| June | 20 |
-| July | 12 |
-| August | 8 |
-| September | 5 |
-| October | 10 |
-| November | 15 |
-| December | 20 |
-
----
-
-### 📊 Contribution Activity
-
-**March 2026**
-- ✅ **DreamHome Project**: Completed full-stack implementation
-- ✅ **TechnoFix**: Integrated OpenAI API for AI-powered summarization
-- ✅ **Portfolio**: Created GitHub Profile README
-- ✅ **Internship**: Working on live projects at NovaSphere Technologies
-
----
-
-### 📞 Contact
+### 🎯 Professional Interests
 
 <p align="center">
-  📍 Gujarat, India &nbsp;|&nbsp;
-  📞 +91 9428226172 &nbsp;|&nbsp;
-  📧 zeelprajapati620@gmail.com
+  <code>Web & Interface Design</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Front-End Development</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Full-Stack Development</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Web Application Development</code>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <code>Creative Visual Design (UI/UX)</code>
 </p>
 
 ---
 
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-</p>
+### ✍️ Quote
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
 
 <p align="center">
-  <i>✨ Feel free to explore my repositories and connect with me! 🚀</i>
+  <i>💡 Always learning, always building. Feel free to explore my repositories and connect with me!</i>
 </p>
 
 <p align="center">
