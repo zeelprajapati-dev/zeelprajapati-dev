@@ -19,9 +19,6 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/zeelprajapati-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://instagram.com/zeel_prajapati" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
